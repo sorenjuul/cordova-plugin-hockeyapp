@@ -1,11 +1,10 @@
 # com.zengularity.cordova.hockeyapp [![experimental](http://hughsk.github.io/stability-badges/dist/experimental.svg)](http://github.com/hughsk/stability-badges)
 
-This plugin exposes the HockeyApp SDK for ios and android
+This plugin exposes the HockeyApp SDK for ios
 
 Including:
 
 * HockeyAppSDK-iOS 3.5.4
-* HockeyAppSDK-Android 3.0.1
 
 ## Installation
 
@@ -13,7 +12,6 @@ Including:
 
 ## Supported Platforms
 
-- Android
 - iOS
 
 ## Methods
