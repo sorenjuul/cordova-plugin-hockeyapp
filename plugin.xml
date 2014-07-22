@@ -23,7 +23,6 @@
 
     <access origin="*.hockeyapp.net" />
 
-    <!-- android 
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="HockeyApp">
@@ -44,6 +43,7 @@
         <source-file src="src/android/HockeyApp.java" target-dir="src/com/zengularity/cordova/hockeyapp" />
         <source-file src="src/android/HockeySDK-Android/libs/HockeySDK-3.0.1.jar" target-dir="libs" framework="true" />
     </platform>
+    <!-- android 
 -->
     <!-- ios -->
     <platform name="ios">
